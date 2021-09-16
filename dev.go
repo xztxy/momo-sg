@@ -1,16 +1,13 @@
 package main
 
-import (
-  //青龙2.9机器人
-  _ "github.com/cdle/sillyGirl/develop/qinglong"
+import _ "./root/momo-sg/develop/qinglong/"
   //京东资产查询
-  _ "github.com/xztxy/momo-sg/develop/jd_cookie"
+import _ "./root/momo-sg/develop/jd_cookie"
   //京东资产查询
-  _ "github.com/xztxy/momo-sg/develop/jd_help"
+import _ "./root/momo-sg/develop/jd_help"
   //京东资产查询
-  _ "github.com/xztxy/momo-sg/develop/jd_asset"
+import _ "./root/momo-sg/develop/jd_asset"
   //腾讯qq
-  _"github.com/cdle/sillyGirl/im/qq"
+import _ "github.com/cdle/sillyGirl/im/qq"
   //Telegram
-  _"github.com/cdle/sillyGirl/im/tg"
-)
+import _ "github.com/cdle/sillyGirl/im/tg"
