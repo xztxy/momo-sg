@@ -1,6 +1,6 @@
 package main
 
-import _ "github.com/cdle/sillyGirl/develop/qinglong/"
+import _ "github.com/cdle/sillyGirl/develop/qinglong"
   //京东资产查询
 import _ "develop/jd_cookie"
   //京东资产查询
